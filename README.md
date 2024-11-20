@@ -6,6 +6,6 @@ udemig ediğitimlerini gösterir
 
 html css
 
-<h2> ekran görüntüs </h2>
+<h2> ekran görüntüsü </h2>
 
 ![](udemig-gif-için.gif)
