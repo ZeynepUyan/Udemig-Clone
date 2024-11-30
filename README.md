@@ -7,7 +7,7 @@ A site designed to show udemig trainings and details
 🟣provides information about trainings
 🟣summary introduction site
 
-<h2> ⛓️‍💥 TECHNOLOGİES USED </h2>
+<h2> ⛓️‍💥 TECHNOLOGIES USED </h2>
 
 🔹html
 🔹css
