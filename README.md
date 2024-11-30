@@ -1,11 +1,17 @@
-<h1> Udemig Clone </h1>
+<h1> UDEMIG CLONE </h1>
 
-udemig ediğitimlerini gösterir
+A site designed to show udemig trainings and details
 
-<h2> içerik </h2>
+<h2> 🎲 FEATURES </h2>
 
-html css
+🟣provides information about trainings
+🟣summary introduction site
 
-<h2> ekran görüntüsü </h2>
+<h2> ⛓️‍💥 TECHNOLOGİES USED </h2>
+
+🔹html
+🔹css
+
+<h2> 🎬 PREVİEW </h2>
 
 ![](udemig-gif-için.gif)
