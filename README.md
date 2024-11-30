@@ -12,6 +12,6 @@ A site designed to show udemig trainings and details
 🔹html
 🔹css
 
-<h2> 🎬 PREVİEW </h2>
+<h2> 🎬 PREVIEW </h2>
 
 ![](udemig-gif-için.gif)
